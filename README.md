@@ -7,3 +7,6 @@ Soy jorge ingeniero industrial para aprender programación
 ## Contact me
 
 Espero que me acompañes en esta aventura de aprender programación
+
+## Hobbies
+- Dnacing
